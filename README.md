@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Jesús A. Silva Q.</h1>
-<h3 align="center">Desarrollador backend apasionado por java de Colombia</h3>
+<h3 align="center">Desarrollador de Colombia me gusta estar en constante aprendizaje</h3>
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=jesussilva95&label=Profile%20views&color=0e75b6&style=flat" alt="jesussilva95" /> </p>
 
-<h3 align="left">Conectar con yo:</h3>
+<h3 align="left">Puedes contactarme en:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jes%C3%BAs-alonso-silva-quintana-a10588258/" target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/vinculado-en-alt.svg" alt="https://www.linkedin.com/in/jes%c3%bas-alonso-silva-quintana-a10588258/" height="30" width="40" /></a>
   
