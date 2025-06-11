@@ -12,7 +12,7 @@
 
 ## 📌 Sobre mí
 
-Soy un estudiante de Analisis y Desarrollo de sofware en -Servicio nacional de aprendizaje SENA desarrollo de software interesado en construir aplicaciones funcionales, escalables y con buenas prácticas de programación. Me encanta resolver problemas y trabajar en proyectos que representen un desafío.
+Soy un estudiante de Analisis y Desarrollo de sofware en -Servicio nacional de aprendizaje SENA- interesado en construir aplicaciones funcionales, escalables y con buenas prácticas de programación. Me encanta resolver problemas y trabajar en proyectos que representen un desafío.
 
 ## 🛠️ Tecnologías que uso
 
@@ -25,7 +25,7 @@ Soy un estudiante de Analisis y Desarrollo de sofware en -Servicio nacional de a
 
 - ✉️ jesus_silva74@hotmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/jesús-silva-quin) 
-- 🌐 [Mi portafolio](https://mi-portafolio.com) *(si tienes uno)*
+
 
 ---
 
